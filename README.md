@@ -13,4 +13,4 @@ A lightweight Windows network speed meter that displays live download and upload
 python taskbar_meter.py
 
 ## Build EXE
-pyinstaller --onefile --noconsole taskbar_meter.py
+pyinstaller --onefile --noconsole net-speed-meter.py
